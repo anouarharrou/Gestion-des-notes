@@ -6,10 +6,8 @@ le but de ce projet est de gérer les notes des étudiants et de leur permettre 
 il contient 2 parties une pour l'administrateur et une autre pour l'étudiant. l'étudiant a besoin d'un numéro d'identification pour obtenir ses notes et la moyenne .
 
 --------------------------------------------------------------------
-======================
 Admin Authentifcation:
-======================
-
+<br>
 Username : admin
 password : admin
 
